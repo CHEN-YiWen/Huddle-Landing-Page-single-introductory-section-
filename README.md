@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/CHEN-YiWen/Huddle-Landing-Page-single-introductory-section-)
-- Live Site URL: [live site host by Github](https://your-live-site-url.com)
+- Live Site URL: [live site host by Github](https://chen-yiwen.github.io/Huddle-Landing-Page-single-introductory-section-/)
 
 ## My process
 
